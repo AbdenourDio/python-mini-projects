@@ -42,4 +42,3 @@ convert_button.grid(column=1, row=2)
 
 # Start the Tkinter event loop to display the window
 window.mainloop()
-# End of code
